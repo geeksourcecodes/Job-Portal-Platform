@@ -1,0 +1,2 @@
+# Job-Portal-Platform
+This Job Portal is a web-based system that its main goal is to provide the right company or organization for job seekers with their experience, educational qualification and preferences this job portal shows the list of companies that match their skills. In this system, job seekers can upload their existing resume so and can apply directly to posted jobs. The admin of this system has the ability to view list of job applicants and can contact them, for an interview or make some action regarding to their post.
